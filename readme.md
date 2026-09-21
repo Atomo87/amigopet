@@ -1,11 +1,13 @@
-<html lang="pt-BR"><head>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amigo Pet | Petshop Profissional</title>
     <!-- Fonte Google -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <!-- Font Awesome 6 -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
@@ -683,7 +685,7 @@
             <div class="hero-content">
                 <div class="hero-badge"><i class="fas fa-star"></i> Referência em cuidado animal</div>
                 <h1>Cuidado <span>profissional</span> para quem você ama</h1>
-                <p>Banho &amp; tosa, consultas veterinárias, hospedagem e muito mais. Seu pet em boas mãos, com todo carinho e segurança que ele merece.</p>
+                <p>Banho & tosa, consultas veterinárias, hospedagem e muito mais. Seu pet em boas mãos, com todo carinho e segurança que ele merece.</p>
                 <div class="hero-buttons">
                     <a href="#contato" class="btn">Agende um horário</a>
                     <a href="#servicos" class="btn btn-outline">Conheça os serviços</a>
@@ -692,7 +694,7 @@
             <div class="hero-image">
                 <div class="hero-img-wrapper">
                     <!-- imagem ilustrativa de pet (fonte: unsplash) -->
-                    <img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?q=80&amp;w=1000&amp;auto=format&amp;fit=crop" alt="Cachorro feliz">
+                    <img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?q=80&w=1000&auto=format&fit=crop" alt="Cachorro feliz">
                 </div>
             </div>
         </div>
@@ -709,7 +711,7 @@
             <div class="services-grid">
                 <div class="service-card">
                     <div class="service-icon"><i class="fas fa-bath"></i></div>
-                    <h3>Banho &amp; Tosa</h3>
+                    <h3>Banho & Tosa</h3>
                     <p>Produtos hipoalergênicos, secagem cuidadosa e tosa personalizada de acordo com a raça.</p>
                 </div>
                 <div class="service-card">
@@ -729,7 +731,7 @@
                 </div>
                 <div class="service-card">
                     <div class="service-icon"><i class="fas fa-truck"></i></div>
-                    <h3>Leva &amp; Traz</h3>
+                    <h3>Leva & Traz</h3>
                     <p>Buscamos e levamos seu melhor amigo em veículo adaptado e com total segurança.</p>
                 </div>
                 <div class="service-card">
@@ -862,7 +864,7 @@
                 <div class="footer-links">
                     <h4>Serviços</h4>
                     <ul>
-                        <li><a href="#">Banho &amp; Tosa</a></li>
+                        <li><a href="#">Banho & Tosa</a></li>
                         <li><a href="#">Veterinária</a></li>
                         <li><a href="#">Hospedagem</a></li>
                         <li><a href="#">Adestramento</a></li>
@@ -877,7 +879,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                © 2025 Amigo Pet – Todos os direitos reservados. Feito com <i class="fas fa-heart" style="color: var(--primary);"></i> para os animais.
+                &copy; 2025 Amigo Pet – Todos os direitos reservados. Feito com <i class="fas fa-heart" style="color: var(--primary);"></i> para os animais.
             </div>
         </div>
     </footer>
@@ -910,5 +912,5 @@
             });
         });
     </script>
-
-</body></html>
+</body>
+</html>
